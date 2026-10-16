@@ -1,0 +1,7 @@
+[
+  {"id": "capital-france", "prompt": "What is the capital of France?", "must_contain": ["Paris"]},
+  {"id": "capital-japan", "prompt": "What is the capital of Japan?", "must_contain": ["Tokyo"]},
+  {"id": "arithmetic", "prompt": "What is 2+2?", "must_contain": ["4"], "max_words": 12},
+  {"id": "greeting", "prompt": "Hello", "must_contain_any": ["hello", "hi there"]},
+  {"id": "out-of-scope", "prompt": "Who won the 1998 World Cup?", "must_contain_any": ["not sure", "don't know"]}
+]
