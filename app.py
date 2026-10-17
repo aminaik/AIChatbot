@@ -22,6 +22,11 @@ FACTS = {
         "Tokyo is Japan's capital.",
     ],
     "2+2": ["2+2 equals 4.", "The answer is 4."],
+    "who are you": [
+        "I am HelpBot, a friendly assistant for Acme Co.",
+        "I am HelpBot. How can I help you today?"
+
+    ],
 }
 
 
